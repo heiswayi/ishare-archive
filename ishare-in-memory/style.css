@@ -1,0 +1,30 @@
+body {
+	margin:0; 
+	padding:0; 
+	font-family: arial;
+	font-size:12px;
+	background:#282828 url(images/bg.gif) fixed center center;
+}
+a { text-decoration:none; }
+#wrapper {
+  width:100%; 
+  margin:0 auto;
+}
+#contentLogo {
+  margin:300px auto 20px auto;
+  padding:10px;
+}
+.audio {
+  text-align:center;
+  margin:0 auto;
+}
+/*
+img#Logo {
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+}
+img#Logo:hover {
+  -webkit-transform: rotate3d(2,0,1, 360deg) scale(0.8);
+  -moz-transform: rotate3d(2,0,1, 360deg) scale(0.8);
+}
+*/
